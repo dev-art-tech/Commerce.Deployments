@@ -1,6 +1,6 @@
 # Commerce Deployments
 
-This repository contains the deployment configurations for both the Docker Compose and Kubernetes.
+This repository will contain the deployment configurations for both the Docker Compose and Kubernetes.
 
 ## Docker Compose
 
